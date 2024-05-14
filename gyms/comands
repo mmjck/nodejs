@@ -1,0 +1,1 @@
+docker run --name gyms-pg -e POSTGRESQL_USERNAME=docker -e POSTGRESQL_PASSWORD=docker -e POSTGRESQL_DATABASE=gym-database -p 5432:5432 bitnami/postgresql

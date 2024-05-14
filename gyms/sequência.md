@@ -1,0 +1,67 @@
+## Sequência
+- [x] Introdução
+- [x] Definindo requisitos e regras
+- [x] Criando projeto Node.js
+- [x] Usando versões exatas do NPM
+- [x] Carregando variáveis ambiente
+- [x] Configurando ESLint
+- [x] Criando aliases de importação
+- [x] Fundamentos do Prisma ORM
+- [x] Fundamentos do Docker
+- [x] PostgreSQL com Docker
+- [x] Utilizando o Docker Compose
+- [x] Criando schema do Prisma
+- [x] Relacionamentos entre tabelas
+- [x] Criação de um usuário
+- [x] Controller de registro
+- [x] Hash da senha e validação
+- [x] Caso de uso de registro
+- [x] Repository Pattern
+- [x] Inversão de dependências
+- [x] Interface do repositório
+- [x] Lidando com erros do use case
+- [x] Handler de erros global
+- [x] Configurando Vitest
+- [x] Primeiro teste unitário
+- [x] In-Memory Databases
+- [x] Gerando coverage de testes
+- [x] Utilizando UI do Vitest
+- [x] Testes e controller de autenticação
+- [x] Caso de uso de autenticação
+- [x] Refatorando instâncias nos testes
+- [x] Utilizando Factory Pattern
+- [x] Caso de uso de perfil
+- [x] Caso de uso de check-in
+- [x] TDD & Mocking
+- [x] Validando data do check-in
+- [x] Validando distância do check-in
+- [x] Caso de uso de criação de academia
+- [x] Caso de uso de histórico
+- [x] Caso de uso de métricas
+- [x] Caso de uso de busca de academias
+- [x] Caso de uso de academias próximas
+- [x] Caso de uso de validar de check-in
+- [x] Validando horário do check-in
+- [x] Repositórios do Prisma
+- [x] Repositório de academias
+- [x] Factories dos casos de uso
+- [x] Princípios da autenticação JWT
+- [x] Implementando JWT no Fastify
+- [x] Controller de perfil
+- [x] Criando test environment
+- [x] Test Environment do Prisma
+- [x] Organizando NPM scripts
+- [x] Teste E2E do registro
+- [x] Teste E2E da autenticação
+- [x] Teste E2E do perfil
+- [x] Controller de criação de academia
+- [x] Outros controllers da academia
+- [x] Controllers das rotas de check-ins
+- [x] Testes E2E de rotas de academias
+- [x] Testes E2E de rotas de check-ins
+- [x] Estratégia de refresh de token
+- [x] Implementação do refresh token
+- [x] Autorização por cargos (RBAC)
+- [x] Testes de RBAC
+- [ ] Executando testes unitários no CI
+- [ ] Executando testes E2E no CI
